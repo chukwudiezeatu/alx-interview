@@ -1,3 +1,1 @@
-Algorithm
-API
-JavaScript
+alx-interview
